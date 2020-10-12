@@ -9,7 +9,6 @@ export default function Home(props) {
     <Layout {...props}>
       <Head>
         <title>The Lower Moreland Spectator - Local news since 2020</title>
-        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       {

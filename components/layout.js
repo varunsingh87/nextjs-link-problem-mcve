@@ -21,7 +21,6 @@ export default class Layout extends React.Component {
     return (
       <div className={layout.container}>
         <Head>
-          <link rel="icon" href="/favicon.ico" />
           <meta
             name="description"
             content="Learn how to build a personal website using Next.js"
